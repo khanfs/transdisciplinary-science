@@ -2,7 +2,6 @@
 # Raw output is unprocessed and unformatted metadata returned by the API
 # Raw output necessary for fields not in the parsed metadata output
 
-
 library(europepmc)
 library(tidyr)
 library(purrr)
